@@ -158,7 +158,7 @@ To provide a **single interactive dashboard** that:
 
 ## 🖼️ Dashboard Preview
 
-![Mobile Sales Dashboard](screenshots/snapshot_mobile_sales_dashboard.png)
+![Mobile Sales Dashboard](C:/Users/prathamesh/OneDrive/Pictures/Screenshots/snapshot_mobile_sales_dashboard.png)
 
 > *Alt text: Power BI dashboard showing mobile sales KPIs, city-wise sales map, brand comparison, payment method distribution, and time-based trends.*
 
